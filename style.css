@@ -1,0 +1,19 @@
+h1, h3 {
+    font-family: "Hoefler Text", serif;
+}
+
+body {
+    font-family: "Adelle Sans Devanagari", serif;
+}
+
+#page-header {
+    margin-top: 50px;
+}
+#quiz-zone {
+    margin-top: 75px;
+}
+
+footer {
+    margin-top: 300px;
+    font-size: x-small;
+}
